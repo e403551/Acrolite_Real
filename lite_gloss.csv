@@ -1,0 +1,75 @@
+Term,Description
+AWS,Amazon Web Services
+CE,Capability Evaluation
+CI,Capability Integration
+CICD,DevSecOps Continuous Integration/Continuous Deployment
+CIPS,Common Integrated Process System
+CITV,Combined Integration Test & Verification
+CRGS,Consolidated Remote Ground Station
+CSI,Customer Site Integration
+CTE,Classified Test Environment
+CTTs,Cyber Table Tops
+DIT,– Test Phases Developer Integration and Test
+DITL,Day-In-The-Life
+DR,Discrepancy Report
+DSIL,Development Software Integration Laboratory
+E3C,Establish Enterprise Entry/Exit Criteria
+EGS,Enterprise Ground Services
+EIS,External Interface Services
+EPDMIDE,Engineering Product Data Management / Integrated Digital Environment
+FIT,Feature Integration and Test
+FORGE,Future Operational Resilient Ground Evolution
+FTA,Functional Test Assembly
+GPS,Global Positioning Satellite
+GRAD,Ground Requirements Allocation Document
+GS,Ground Segment
+GSTP,Ground System Test Plan
+HBTN,High Bay Test Node
+HLD,Consolidated Factory High-Level Design
+HRS,Hardware Requirements Specification
+IRPL,"Bus Factory, and Infrared Payload"
+IaaS,Service
+JVWG,Joint Verification Working Group
+LM,Lockheed Martin
+MCS,Mission Control Station
+MCSB,Mission Control Station Backup
+MDPAF,Application Framework
+MUA,Mission Unique Applications
+MUE,Mission Unique Equipment
+MUS,Mission Unique Software
+OPIR,Overhead Persistent Infrared
+OTE,Operational Test and Evaluation
+PDD,Program Disclosure Document
+PUID,Program Unique Identifier
+RD,Research and Development
+RF,of Radio Frequency
+RGS,Relay Ground Stations
+RTS,Real-Time Transfer Service
+RVL,Requirements Verification Ledger
+RVP,Requirements Verification Procedure
+SASC,Auxiliary Support Center
+SBIRS,Space Based Infrared System
+SDE,Software Development Environment
+SEIT,Systems Engineering Integration and Test
+SMC,Space and Missile Center’s
+SME,Support Tasks Subject Matter Expert
+SRR,DTPs Create Segment Readiness Review
+SRS,Software Requirements Specification
+SS,Space Segment
+SSC,Space Systems Company
+SSP,Sensor Specific Processing
+STE,Software Test Environment
+STP,System Test Plan
+SUT,Systems Under Test
+SV,Geosynchronous Space Vehicles
+SWIT,Software Test Environment
+SoH,State of Health
+TAP,"Tools, Application, and Processing"
+TBD,To-Be-Determined
+TBR,To-Be-Resolved/Reviewed
+TBS,To-Be-Scheduled / Supplied
+TBX,To-Be
+TLYF,Test Like You Fly
+TRR,Test Readiness Review
+UDE,Unclassified Development Environment
+VDD,Version Description Document
