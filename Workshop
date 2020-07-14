@@ -23,6 +23,8 @@ Custom Software:----------------------------------------------------------------
     - display formula, below are variable meanings and units
         - formula is clickable, bringing to display of examples using that formula
         - meanings and units are clickable, bringing to all conversions
+- Learning Progress
+    - relies on scatter chart to show self-reports of progress
 - Jarvis
     - MkI
         - chats
@@ -100,23 +102,8 @@ Measurements:-------------------------------------------------------------------
 - VisionGauge’s 700 Series 5-Axis Digital Optical Comparator
     - presents CAD model on screen right next to drawings
 - Precision Epoxy can make pure level surfaces
-------------------------------------------------------------------------------------------------------------------------
 
-- must identify skills needed, and if we've achieved basic understanding, achieve an advanced understanding of each
-    - important to learn g-code to edit and fire up a quick part, especially Manual Data Input
-    - master *using* all of these things before buying them yourself so you know what to look for and can jump straight
-    in
-
-- must study daily new tech and mechanisms (25-35 min a day)
-    - Manufacturing mondays
-    - Time Travel Tuesdays (Review past novel tech that may not have gotten their opportunity)
-    - Wombat Wednesdays (craziest new tech, most risky)
-    - Throwback Thursdays (review past awesome marvels, tried and true mechanisms, etc.)
-    - Future Fridays (Most Promising new tech)
-- must learn as much as possible while young in as many labs, in as many fields as possible
-- must eat right and work out properly to have energy to work into the night
-- must have body and mind as sharp as possible to work as long as possible in pristine shape
-
+Miscellanoeus-----------------------------------------------------------------------------------------------------------
 - add foundry for melting down certain metals and creating ingots
 - add pulley
 - raspberry pi cluster
@@ -131,3 +118,4 @@ Measurements:-------------------------------------------------------------------
 - touchscreens throughout house
 - mechanic's cart, other rolling cart
 - automatic plowing robot into the train hoppers, vaccuum bot
+- helping robotic arm

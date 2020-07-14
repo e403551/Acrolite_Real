@@ -1,0 +1,87 @@
+Planning
+1) MVP Identification
+    - identify what Minimal Viable Product [MVP] will be pursued in these weeks
+    - estimate how many days it will take to fully complete MVP
+        - any project that reaches this point must have detailed drawings and calculations
+2) Increment Planning: Increment Goal is to produce the listed MVP features--MVP DOES NOT need to be done by end.
+    - define Features [Products] for Increment
+    - define Stories [Big Picture Steps to Feature] for each defined Feature
+        - stories are generally 2 weeks long. The last story of each increment is used for innovation and planning.
+        - new stories can be made throughout the increment
+    - define story exit criteria
+    - establish Program Board
+        - stories[rows] X increment sprints[columns]
+        - place feature completion times in each blank
+        - if features depend on each other, denote with a red sticky note
+            - connect all red notes with a red string
+        - in the upper right corner, give real capacity and load
+    - define Story points [1,2,3,5,8] based on complexity relative to each other
+        - that is, an 8 point story should take 4x longer than a 2 point story
+        - find a small story that will take about a half-day to develop and half day to test/validate, and call that a 1
+3) Sprint Planning
+    - break down stories into individual tasks
+    - assign hour estimates to complete each task
+4) Tasking
+    - team swarms on each task during sprint to close them out
+        - tasks are either (none), (in progress), or (completed)
+        - each time a task is worked on/completed, the task begins to drop
+5) Sprint Ending
+    - demos look at burndowns and velocities
+    - retro looks back and sees if anything can be changed
+        - what went well?
+        - what did not?
+        - what will happen differently next time?
+
+Sprint Cycles
+1) Build
+2) Integration
+3) Test
+
+Mobile App needs:
+- timer for each task
+
+
+
+Idealogy
+- team swarms on tasks to complete asap
+
+1) Increment Planning (Increment = 3 months)
+    - identify stories for this increment
+        - pick stories based on if they are:
+            Independent
+            Negotiable
+            Valuable
+            Estimable
+            Small
+            Testable
+    - identify acceptance criteria of all stories
+    - score stories with relative points (1,2,3,5,8,13) that represents:
+        - volume, complexity, knowledge, uncertainty
+        - an 8 point should take 4x longer than a 2 point
+
+2) Establish VCapacity for sprint [Sprint = 2 weeks]
+    - velocity is average capacity, but it's just used as a benchmark when filling this sprint with points
+        - we still take current sprint capacity to
+    - With Historic Data
+    - Without historic data
+        - for every full-time developer and tester on the team, give 8 points
+        - subtract 1 point from capacity for every day off
+        - find a small story that will take about a half-day to develop and half day to test/validate, and call that a 1
+            - estimate every other story relative
+        - don't reestimate stories
+        - Capacity = full time workers * story points (1,2,3,5,or 8)
+    - Sprint Planning for 2 hrs per sprint, 15 min sprint meetings weekly
+3) Retro
+
+Sprint Planning Flow:
+1) Establish velocity
+2) Clarify stories
+3) Optionally break stories into tasks
+4) Process continues while there's capacity
+5) Build Sprint goals
+
+sprints are scored by complexeity (1,2,3,5,8)
+tasks are scored by hours
+- the burn down chart is simply an ideal line from the hours we're starting with to have 0 hours on the last day
+
+Velocity is hor many closed points you average per sprint.
